@@ -4,7 +4,7 @@ import numpy as np
 import io
 
 #Display Image
-st.image("image.jpg",use_column_width=True)
+st.image("monthly_Expense_app/image.jpg",use_column_width=True)
 
 st.title("Monthly Expense Sheet")
 
